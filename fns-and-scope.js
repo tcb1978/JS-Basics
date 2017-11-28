@@ -13,7 +13,7 @@ var name = 'Tyler';
 
 
   function getName(){
-    prompt('Please include your name.')
+    return prompt('Please include your name.')
   };
 
 
